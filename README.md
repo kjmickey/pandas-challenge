@@ -1,7 +1,9 @@
-# pandas-challenge
+# pandas-challenge - Heroes of Pymoli
  Homework due Dec 16
 
+********
 Update 12/16:  I did Heroes of Pymoli, file name is HeroesOfPymoli_starter.ipynb
+********
 
 Obeservations are at the end of the Jupyter notebook and also in the text file "Observations of HoP.txt"
 
